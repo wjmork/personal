@@ -1,0 +1,15 @@
+{
+  "name": "personal",
+  "description": "Personal portfolio site",
+  "version": "0.0.0",
+  "author": "William Mork <w.j.mork@gmail.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}
