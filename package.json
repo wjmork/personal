@@ -2,6 +2,7 @@
   "name": "personal",
   "description": "Personal portfolio site",
   "version": "0.0.0",
+  "homepage": "https://wjmork.github.io/personal",
   "author": "William Mork <w.j.mork@gmail.com>",
   "bin": "src/cli.js",
   "files": [
@@ -9,7 +10,8 @@
     "templates"
   ],
   "dependencies": {
-    "create-create-app": "^7.3.0"
+    "create-create-app": "^7.3.0",
+    "gh-pages": "^4.0.0"
   },
   "license": "MIT"
 }
